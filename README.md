@@ -6,4 +6,4 @@ Silahkan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/Github/Website](Alamat URL).**
 
 Berikut adalah daftar Volunter yang diterima:
-*Muhammad Hafiz Ikhsan, [MuhammadHafizIkhsan](https://www.linkedin.com/in/muhammadhafizikhsan/).
+* Muhammad Hafiz Ikhsan, [MuhammadHafizIkhsan](https://www.linkedin.com/in/muhammadhafizikhsan/).
